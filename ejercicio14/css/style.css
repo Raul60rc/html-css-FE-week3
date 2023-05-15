@@ -1,0 +1,22 @@
+div{
+    border: 1px solid rgb(132, 255, 83);
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+th{
+    background-color: darkorange;
+    display: flex;
+    justify-content: center;
+}
+td{
+    background-color: yellow;
+}
+/* display flex, align items, add table & background image penguine, create another div for the table & center in the middle */ 
+
+body{
+    background-image: url("/ejercicio14/images/bengal-tiger.jpg");
+    background-repeat: none;
+    background-size: cover;
+    
+}
